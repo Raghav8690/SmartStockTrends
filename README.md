@@ -38,6 +38,6 @@
 ---
 
 ## 📬 Contact
-- Created by **Rahul Singh Rajpurohit** – feel free to connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](www.linkedin.com/in/rahul-singh-rajpurohit-27bb3a289/)
+- Created by **Rahul Singh Rajpurohit** – feel free to connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rahul-singh-rajpurohit-27bb3a289)
  or reach out for collaboration!
 
