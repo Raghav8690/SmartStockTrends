@@ -37,7 +37,16 @@
  - Contributions are welcome! Feel free to open issues or submit pull requests.
 ---
 
+
+
 ## 📬 Contact
-- Created by **Rahul Singh Rajpurohit** – feel free to connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rahul-singh-rajpurohit-27bb3a289)
- or reach out for collaboration!
+- Created by **Rahul Singh Rajpurohit** – feel free to connect on  
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rahul-singh-rajpurohit-27bb3a289)
+
+- 🔗 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=Instagram&style=flat)](https://www.instagram.com/its__rahulsingh__/)
+
+> 💡 *Note: The trained models for prediction and sentiment analysis are not uploaded. DM me if you need access.*
+
+
+
 
