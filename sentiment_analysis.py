@@ -11,6 +11,10 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer as wnl
 import pickle
 
+nltk.download('stopwords', quiet=True)
+nltk.download('punkt', quiet=True)        
+nltk.download('wordnet', quiet=True)   
+nltk.download('omw-1.4', quiet=True) 
 
 stop_word = set(stopwords.words('english'))
 lemmatizer = wnl()
